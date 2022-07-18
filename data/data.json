@@ -73,7 +73,8 @@
                {"module": "04", "no": 13, "date": "Jul 15 2022", "coverage":"Websites" , "folder":"M4/HTML_CSS_JS08"},
                {"module": "04", "no": 14, "date": "Jul 16 2022", "coverage":"Async Operation" , "folder":"M4/HTML_CSS_JS09"},
                {"module": "04", "no": 15, "date": "Jul 16 2022", "coverage":"WebSocket" , "folder":"M4/HTML_CSS_JS10"},
-               {"module": "04", "no": 16, "date": "Jul 16 2022", "coverage":"Multimedia" , "folder":"M4/HTML_CSS_JS11"}
+               {"module": "04", "no": 16, "date": "Jul 16 2022", "coverage":"Multimedia" , "folder":"M4/HTML_CSS_JS11"},
+               {"module": "04", "no": 17, "date": "Jul 18 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/1ZAU1Qa2Xv"}
 
           ]
      }
